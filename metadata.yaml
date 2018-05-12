@@ -1,0 +1,31 @@
+_repo: Hints-for-Lovers_14255
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haultain, Arnold
+    aliases:
+    - Haultain, T. Arnold (Theodore Arnold)
+    - Haultain, Theodore Arnold
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '5434'
+    url: http://www.gutenberg.org/2009/agents/5434
+description: Cover -- Contents.
+gutenberg_bookshelf: Love
+gutenberg_issued: '2004-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14255'
+  lccn: 09028258
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Love'
+title: Hints for Lovers
+url: http://www.gutenberg.org/ebooks/14255
